@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<renderables>
+<simpletexts>
+<simpletext text="SCORE:">
+<entity render="true" centerrotation="0" height="30" name="" width="84">
+<vector2d id="location" x="20.0" y="11.0"/>
+<scripts></scripts>
+</entity>
+<color blue="255" green="255" red="102"/>
+<font name="Sylfaen" size="14" style="1"/>
+</simpletext>
+<simpletext text="-----">
+<entity render="true" centerrotation="0" height="30" name="scoretxt" width="70">
+<vector2d id="location" x="118.0" y="11.0"/>
+<scripts></scripts>
+</entity>
+<color blue="102" green="255" red="102"/>
+<font name="Arial Black" size="14" style="0"/>
+</simpletext>
+</simpletexts>
+</renderables>
